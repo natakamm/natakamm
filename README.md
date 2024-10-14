@@ -1,5 +1,5 @@
 ## About Me 🌱
-I am junior Full Stack Web Developer who started off an as illustrator
+I am a junior Full Stack Web Developer who started off as an illustrator
 
 - I have recently graduated from **WBS CODING SCHOOL**, where I participated in the **Full-Stack Web Development** course.
 - I’m currently learning **TypeScript** and **Sass**.
