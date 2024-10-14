@@ -8,7 +8,7 @@ I am junior Full Stack Web Developer who started off an as illustrator
 - I adore cats, of which I have two.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natakamm&layout=donut&theme=jolly)](https://github.com/natakamm/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natakamm&layout=donut&theme=jolly)
   
 ## My skills
 
