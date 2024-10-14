@@ -1,16 +1,20 @@
-## Hi there 👋
+## About Me 👋
+I am junior Full Stack Web Developer who started off an as illustrator
 
-<!--
-**natakamm/natakamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I have recently graduated from **WBS CODING SCHOOL**, where I participated in the **Full-Stack Web-Develpoment** course.
+- I’m currently learning **typescript** and **ssas** [![My Skills](https://skillicons.dev/icons?i=typescript,sass)](https://skillicons.dev)
+- 🌱 I adore cats, of which I have two
+  
+## My skills
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=css,react,vue,figma,github,html,javascript,nodejs,mongodb,netlify,npm,postman,tailwind,vite,vscode)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Non-Coding Skills
+[![My Skills](https://skillicons.dev/icons?i=ps,ai)](https://skillicons.dev)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natakamm&show_icons=true&theme=jolly&hide=issues)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natakamm&layout=donut&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
